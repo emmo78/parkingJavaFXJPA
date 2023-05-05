@@ -1,0 +1,39 @@
+Bon travail
+des points à expliciter :
+- §5.2.3 les packages MVC sont clairs, expliquer pourquoi et 
+à quoi servent les différents main() : Appli, simulateur, ?
+- A ce niveau de conception, vous intégrer une technologie pour réaliser la solution.
+Préciser si vous paramétrez ou si vous utilisez des classes technlogiques et lesquelles.
+Dans ce dernier cas il est possible que des DS MVC incluant la techno soit à décrire, 
+Ils permettrons de décrire les tests d'intégration de la solution.
+
+- §5.2.4
+un diagramme d'activité qui organise voire séquence les ihm et l'application ajoute est indispensable.
+
+- § 5.2.6 Arborescence projet du code
+Oui à préciser une capture ecran
+quand vous me livrerez vos sources zippés, ce sera la même arbo.
+
+- §7 déploiement
+A ce stade il vous faut un diagramme de composants
+qui seront localiser sur une machine pour une appli alone (notre cas ici)
+ou plusieurs machines pour une appli répartie. (Sans Objet ici)
+
+Pensez aussi à me faire un jar ou un Exe, cela fait aussi partie de la livraison (car composants déployés)
+Enfin un petit manuel d'install avec les repertoires et fichiers associés (différents de l'arbo projet ds eclipse)
+
+Bilan.
+1) sur le projet, équipe, temps, difficultés (tjrs utile pour moi aussi) vos remarques
+2° prise de hauteur vous concernant. j'ai aimé, je n'ai pas aimé, apport, axe d'amélioration.
+
+Mon Avis
+A ce stade, je vois du très bon travail, qui vous permettra d'intégrer une équipe sur gros projet.
+Vous saurez batir une appli maintenable et évolutive, maîtriser uml pour réfléchir et communiquer
+Architecturer et optimiser (cela viendra vite).
+Sur un projet en équipe, vous saurez surtout vous organiser % à vos besoins 
+disponibles tardivement dans un projet qui occasionneront votre retard.
+
+Merci pour le travail fourni.
+Denis  
+
+
